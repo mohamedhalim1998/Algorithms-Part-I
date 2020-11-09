@@ -1,0 +1,1 @@
+# My Solutions for [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) course by Princeton
