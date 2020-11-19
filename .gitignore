@@ -1,4 +1,10 @@
 /Week1/.idea/
 /Week1/out/
 /Week1/Percolation.iml
+/Week2/.idea/
+/Week2/out/
+/Week2/Week2.iml
+*.zip
+*.jar
+*.log
 
