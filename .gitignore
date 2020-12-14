@@ -10,7 +10,12 @@
 /Week4/.idea/
 /Week4/out/
 /Week4/Week4.iml
+/Week5/.idea/
+/Week5/out/
+/Week5/Week5.iml
 *.zip
 *.jar
 *.log
+*.in
+
 
